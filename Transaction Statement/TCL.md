@@ -17,7 +17,7 @@ to the database
 
 ```SQL
 -- The value can be 0/OFF or 1/ON
-SET AUTOCOMMIT = (value)
+SET AUTOCOMMIT = value
 ```
 
 ### SAVEPOINT
