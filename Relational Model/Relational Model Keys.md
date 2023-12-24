@@ -2,8 +2,8 @@
 
 ## Super Key
 
-- Superset of all the keys
-- It is the collection of all PNC of all attributes
+- Set of keys that *uniquely* identifies a tuple
+- It is the superset of *candidate key*
 
 ## Primary Key
 
